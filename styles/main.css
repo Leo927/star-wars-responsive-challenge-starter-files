@@ -1,0 +1,40 @@
+.top-bar{
+	top: 0;
+	left: 0;
+	background-color: orange;
+	width: 100%;
+	margin-bottom: 2%;
+}
+
+.top-bar-title{
+	display: inline-block;
+	width: 100%;
+	font-size: 175%;
+}
+
+
+.card img{
+	width: 100%;
+}
+
+.card{
+	border:1px solid;
+	border-color: rgba(0,0,0,0.1);
+}
+
+.card-name{
+	font-weight: bold;	
+	font-size: 125%;
+	padding-top: 8%;
+	padding-bottom: 4%
+}
+
+.card-background{
+	font-size: 100%;
+	padding-bottom: 8%
+}
+
+.card-name, .card-background{
+	padding-left: 6.25%;
+	padding-right: 6.25%;
+}
